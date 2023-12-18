@@ -31,5 +31,6 @@ name or type of food and recommend nearby restaurants that serve that food.
 
 ### Info ###
 - Yoojin Oh (Ewha Womans University, Dept of AI, Sophomore)
+- contect : mydianaoh@ewhain.net or dianaoh1021@gmail.com
 - Written in 2023-12-18
 - tools : colab gpu, pytorch, wandb
