@@ -23,3 +23,10 @@ Therefore, we propose a service that can analyze the given image to identify the
 name or type of food and recommend nearby restaurants that serve that food.
 
 ![pipeline](https://github.com/finallyupper/food_classficiation/blob/main/others/img1_pipeline.png)
+![evaluation](https://github.com/finallyupper/food_classficiation/blob/main/others/img2_graphs.png)
+![performance_table](https://github.com/finallyupper/food_classficiation/blob/main/others/img3_table.png)
+
+
+- Yoojin Oh (Ewha Womans University, Dept of AI, Sophomore)
+- Written in 2023-12-18
+- tools : colab gpu, pytorch, wandb
