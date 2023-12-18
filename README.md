@@ -14,3 +14,12 @@
 3. DenseNet161
 4. InceptonV3
 -> Transfer Learning
+
+### Problem Definition ###
+When you have a craving for a specific food and find nearby restaurants for it, 
+you must know the name of food if you use Naver Map or Kakaomap.
+This poses a clear limitation when you only have an image without knowing the name of food.
+Therefore, we propose a service that can analyze the given image to identify the 
+name or type of food and recommend nearby restaurants that serve that food.
+
+![pipeline](https://github.com/finallyupper/food_classficiation/blob/main/others/img1_pipeline.png)
